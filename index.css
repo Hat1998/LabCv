@@ -1,0 +1,20 @@
+body{
+ }
+
+#root{
+    width: 1071px;
+    margin: auto;
+    padding: 60px;
+    border-left: 5px solid;
+    border-right: 5px solid;
+    background-color: white;
+    border-color: rgb(187, 183, 183);
+    border-radius: 50px;
+
+}
+
+.s{
+    color: blue;
+}
+
+ 
